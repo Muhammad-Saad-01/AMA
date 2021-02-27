@@ -1,13 +1,11 @@
 # Ask me anything!
 
 ![Imgur](http://i.imgur.com/JTisZUF.png)
-Anyone can ask me anything i.e personal questions, Money, Work, Life, Code, Whatever.. and this way anyone can read the answers also!
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Anyone can ask me Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.. and this way anyone can read the answers also!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
 ### Guidelines
 
